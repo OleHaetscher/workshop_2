@@ -1,5 +1,6 @@
 print("Hello")
 print("World")
 
-print("YES")
 
+print("YES")
+print("NO")
